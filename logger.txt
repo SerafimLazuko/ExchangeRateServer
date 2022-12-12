@@ -1,0 +1,96 @@
+Server running at Time: 08.12.2022 17:27:36
+Now listening on: https://localhost:7266
+Now listening on: http://localhost:5266
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\seraf\source\repos\ExchangeRateServer\
+Server running at Time: 09.12.2022 12:47:30
+Now listening on: https://localhost:7266
+Now listening on: http://localhost:5266
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\seraf\source\repos\ExchangeRateServer\
+Server running at Time: 09.12.2022 13:40:04
+Now listening on: https://localhost:7266
+Now listening on: http://localhost:5266
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\seraf\source\repos\ExchangeRateServer\
+Server running at Time: 09.12.2022 13:41:24
+Now listening on: https://localhost:7266
+Now listening on: http://localhost:5266
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\seraf\source\repos\ExchangeRateServer\
+Server running at Time: 09.12.2022 13:42:35
+Now listening on: https://localhost:7266
+Now listening on: http://localhost:5266
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\seraf\source\repos\ExchangeRateServer\
+Server running at Time: 11.12.2022 19:51:40
+Now listening on: https://localhost:7266
+Now listening on: http://localhost:5266
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\seraf\source\repos\ExchangeRateServer\
+Server running at Time: 11.12.2022 19:53:11
+Now listening on: https://localhost:7266
+Now listening on: http://localhost:5266
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\seraf\source\repos\ExchangeRateServer\
+Server running at Time: 11.12.2022 21:10:05
+Now listening on: https://localhost:7266
+Now listening on: http://localhost:5266
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\seraf\source\repos\ExchangeRateServer\
+Server running at Time: 11.12.2022 21:13:40
+Now listening on: https://localhost:7266
+Now listening on: http://localhost:5266
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\seraf\source\repos\ExchangeRateServer\
+Server running at Time: 11.12.2022 21:42:55
+Now listening on: https://localhost:7266
+Now listening on: http://localhost:5266
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\seraf\source\repos\ExchangeRateServer\
+Server running at Time: 12.12.2022 8:06:58
+Now listening on: https://localhost:7266
+Now listening on: http://localhost:5266
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\seraf\source\repos\ExchangeRateServer\
+Server running at Time: 12.12.2022 8:10:15
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\seraf\source\repos\ExchangeRateServer\
+Server running at Time: 12.12.2022 8:56:30
+Now listening on: https://localhost:7266
+Now listening on: http://localhost:5266
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\seraf\source\repos\ExchangeRateServer\
+Server running at Time: 12.12.2022 9:05:59
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\seraf\source\repos\ExchangeRateServer\
+Server running at Time: 12.12.2022 9:16:32
+Server running at Time: 12.12.2022 9:17:37
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\seraf\source\repos\ExchangeRateServer\
+Server running at Time: 12.12.2022 9:20:33
+Now listening on: http://localhost:8001
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\seraf\source\repos\ExchangeRateServer\
+Server running at Time: 12.12.2022 9:51:18
+Now listening on: https://localhost:7266
+Now listening on: http://localhost:5266
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\seraf\source\repos\ExchangeRateServer\

@@ -1,0 +1,290 @@
+[
+  {
+    "Currency": "USD",
+    "Date": "2020-05-31T00:00:00",
+    "Value": 2.41,
+    "Amount": 1
+  },
+  {
+    "Currency": "USD",
+    "Date": "2020-06-01T00:00:00",
+    "Value": 2.41,
+    "Amount": 1
+  },
+  {
+    "Currency": "USD",
+    "Date": "2020-06-02T00:00:00",
+    "Value": 2.4008,
+    "Amount": 1
+  },
+  {
+    "Currency": "USD",
+    "Date": "2020-06-03T00:00:00",
+    "Value": 2.3981,
+    "Amount": 1
+  },
+  {
+    "Currency": "USD",
+    "Date": "2021-09-09T00:00:00",
+    "Value": 2.5194,
+    "Amount": 1
+  },
+  {
+    "Currency": "USD",
+    "Date": "2021-09-10T00:00:00",
+    "Value": 2.5104,
+    "Amount": 1
+  },
+  {
+    "Currency": "USD",
+    "Date": "2021-09-11T00:00:00",
+    "Value": 2.4999,
+    "Amount": 1
+  },
+  {
+    "Currency": "USD",
+    "Date": "2021-09-12T00:00:00",
+    "Value": 2.4999,
+    "Amount": 1
+  },
+  {
+    "Currency": "USD",
+    "Date": "2021-10-19T00:00:00",
+    "Value": 2.447,
+    "Amount": 1
+  },
+  {
+    "Currency": "USD",
+    "Date": "2021-10-20T00:00:00",
+    "Value": 2.4377,
+    "Amount": 1
+  },
+  {
+    "Currency": "USD",
+    "Date": "2021-10-21T00:00:00",
+    "Value": 2.4381,
+    "Amount": 1
+  },
+  {
+    "Currency": "USD",
+    "Date": "2021-10-22T00:00:00",
+    "Value": 2.4362,
+    "Amount": 1
+  },
+  {
+    "Currency": "BTC",
+    "Date": "2022-01-01T00:02:00",
+    "Value": 46182.6902043563,
+    "Amount": 1
+  },
+  {
+    "Currency": "BTC",
+    "Date": "2022-01-02T00:02:00",
+    "Value": 47742.6482120634,
+    "Amount": 1
+  },
+  {
+    "Currency": "BTC",
+    "Date": "2022-01-03T00:02:00",
+    "Value": 47330.0025141812,
+    "Amount": 1
+  },
+  {
+    "Currency": "BTC",
+    "Date": "2022-01-04T00:02:00",
+    "Value": 46432.0028469582,
+    "Amount": 1
+  },
+  {
+    "Currency": "BTC",
+    "Date": "2022-01-05T00:02:00",
+    "Value": 45856.8790670492,
+    "Amount": 1
+  },
+  {
+    "Currency": "BTC",
+    "Date": "2022-01-06T00:02:00",
+    "Value": 43453.1392461894,
+    "Amount": 1
+  },
+  {
+    "Currency": "BTC",
+    "Date": "2022-01-07T00:02:00",
+    "Value": 43127.5805053547,
+    "Amount": 1
+  },
+  {
+    "Currency": "BTC",
+    "Date": "2022-01-08T00:02:00",
+    "Value": 41546.3324657049,
+    "Amount": 1
+  },
+  {
+    "Currency": "BTC",
+    "Date": "2022-01-09T00:02:00",
+    "Value": 41704.3081680578,
+    "Amount": 1
+  },
+  {
+    "Currency": "BTC",
+    "Date": "2022-01-10T00:02:00",
+    "Value": 41858.6154959866,
+    "Amount": 1
+  },
+  {
+    "Currency": "BTC",
+    "Date": "2022-01-11T00:02:00",
+    "Value": 41843.7325090271,
+    "Amount": 1
+  },
+  {
+    "Currency": "BTC",
+    "Date": "2022-01-12T00:02:00",
+    "Value": 42750.9530381437,
+    "Amount": 1
+  },
+  {
+    "Currency": "BTC",
+    "Date": "2022-01-13T00:02:00",
+    "Value": 43903.8800089838,
+    "Amount": 1
+  },
+  {
+    "Currency": "BTC",
+    "Date": "2022-01-14T00:02:00",
+    "Value": 42548.6833737891,
+    "Amount": 1
+  },
+  {
+    "Currency": "BTC",
+    "Date": "2022-01-15T00:02:00",
+    "Value": 43089.2259644063,
+    "Amount": 1
+  },
+  {
+    "Currency": "BTC",
+    "Date": "2022-01-16T00:02:00",
+    "Value": 43124.8713404554,
+    "Amount": 1
+  },
+  {
+    "Currency": "BTC",
+    "Date": "2022-01-17T00:02:00",
+    "Value": 43098.6394665538,
+    "Amount": 1
+  },
+  {
+    "Currency": "BTC",
+    "Date": "2022-01-18T00:02:00",
+    "Value": 42243.8380681106,
+    "Amount": 1
+  },
+  {
+    "Currency": "BTC",
+    "Date": "2022-01-19T00:02:00",
+    "Value": 42384.4032323024,
+    "Amount": 1
+  },
+  {
+    "Currency": "BTC",
+    "Date": "2022-01-20T00:02:00",
+    "Value": 41712.7850588995,
+    "Amount": 1
+  },
+  {
+    "Currency": "BTC",
+    "Date": "2022-01-21T00:02:00",
+    "Value": 40692.2857222311,
+    "Amount": 1
+  },
+  {
+    "Currency": "BTC",
+    "Date": "2022-01-22T00:02:00",
+    "Value": 36515.2669413863,
+    "Amount": 1
+  },
+  {
+    "Currency": "BTC",
+    "Date": "2022-01-23T00:02:00",
+    "Value": 35055.9168657228,
+    "Amount": 1
+  },
+  {
+    "Currency": "BTC",
+    "Date": "2022-01-24T00:02:00",
+    "Value": 36266.9525997786,
+    "Amount": 1
+  },
+  {
+    "Currency": "BTC",
+    "Date": "2022-01-25T00:02:00",
+    "Value": 36669.4197809141,
+    "Amount": 1
+  },
+  {
+    "Currency": "BTC",
+    "Date": "2022-01-26T00:02:00",
+    "Value": 36942.9783773134,
+    "Amount": 1
+  },
+  {
+    "Currency": "BTC",
+    "Date": "2022-01-27T00:02:00",
+    "Value": 36809.5503446256,
+    "Amount": 1
+  },
+  {
+    "Currency": "BTC",
+    "Date": "2022-01-28T00:02:00",
+    "Value": 37089.2126663395,
+    "Amount": 1
+  },
+  {
+    "Currency": "BTC",
+    "Date": "2022-01-29T00:02:00",
+    "Value": 37759.6549351056,
+    "Amount": 1
+  },
+  {
+    "Currency": "BTC",
+    "Date": "2022-01-30T00:02:00",
+    "Value": 38198.3688329589,
+    "Amount": 1
+  },
+  {
+    "Currency": "BTC",
+    "Date": "2022-01-31T00:02:00",
+    "Value": 37908.6499172984,
+    "Amount": 1
+  },
+  {
+    "Currency": "BTC",
+    "Date": "2022-02-01T00:02:00",
+    "Value": 38523.402413443,
+    "Amount": 1
+  },
+  {
+    "Currency": "RUB",
+    "Date": "2022-12-02T00:00:00",
+    "Value": 3.9841,
+    "Amount": 100
+  },
+  {
+    "Currency": "RUB",
+    "Date": "2022-12-03T00:00:00",
+    "Value": 3.9841,
+    "Amount": 100
+  },
+  {
+    "Currency": "RUB",
+    "Date": "2022-12-04T00:00:00",
+    "Value": 3.9841,
+    "Amount": 100
+  },
+  {
+    "Currency": "RUB",
+    "Date": "2022-12-05T00:00:00",
+    "Value": 3.9633,
+    "Amount": 100
+  }
+]
